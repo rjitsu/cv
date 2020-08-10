@@ -1,12 +1,4 @@
 # Rishav Jadon
-Software Developer in Gwalior,India
+Front End Developer in Gwalior,India
 
-📋
-:envelope:
-:page_with_curl:
-:paperclip:
-:basketball:
-:art:
-:memo:
-:coffee:
-:link:
+[Email](rishav.jadon.work@gmail.com)|[Website](csskenpai.com)|[Github](github.com/rjitsu)|[Twitter](twitter.com/rovenclasher)|[LinkedIn](linkedin.com/in/rishav-jadon-584037194/)
