@@ -63,7 +63,10 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 ## 🎓 Education
 
 **Bachelor of Technology** in Computer Science<br>
-[Amity University](https://www.beloit.edu/search/?q=carolyn+stransky&x=0&y=0&as_sitesearch=https%3A%2F%2Fwww.beloit.edu%2F) - Gwalior, M.P., India _(2016 - 2020)_
+[Amity University](https://www.amity.edu/gwalior/) - Gwalior, M.P., India _(2016 - 2020)_
+
+**Minors** in English Literature<br>
+[Amity School of Languages](https://www.amity.edu/asl/) - Gwalior, M.P., India _(2016 - 2020)_
 
 **Senior Secondary Education** <br>
 Army Public School Gwalior - Gwalior, M.P., India _(2014-2015)_
