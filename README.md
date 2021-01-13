@@ -6,6 +6,8 @@ _Software developer based in Gwalior, India_ <br>
 
 [Email](mailto:rishav.jadon.work@gmail.com) / [Website](https://www.csskenpai.com) / [Github](https://www.github.com/rjitsu) / [DEV](https://dev.to/rjitsu) / [Twitter](https://www.twitter.com/rovenclasher) / [LinkedIn](https://www.linkedin.com/in/rishav-jadon-584037194/) / [Codepen](https://codepen.io/Rj456)
 
+[Mobile ](tel:+917987422994)
+
 ## 💻 Technical Experience
 
 **Software Intern** @ [Kelltontech](https://twitter.com/Kelltontech) _(May 2019 - July 2019)_ <br>
