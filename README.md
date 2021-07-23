@@ -10,6 +10,16 @@ _Software developer based in Gwalior, India_ <br>
 
 ## 💻 Technical Experience
 
+**Front End Developer** @ [Taiyo](https://www.taiyo.ai/) _(Jan 2021 - Present)_ <br>
+Helping global companies become more resilient in an evolving world.
+  - Built the Taiyo Infra app in React, along with the team, having major contribution in the front end. 
+  - Working on Data Visualization for plotting multiple charts using Recharts, chartsjs, etc.
+  - Worked on building mockups for the initial design for the app using Figma.
+  - Learned a lot about version control with Git.
+  - **_Technologies used:_** React, Axios, Git, Recharts
+  - **_Platforms:_**  Figma, VSCode
+    <br><br>
+    
 **Software Intern** @ [Kelltontech](https://twitter.com/Kelltontech) _(May 2019 - July 2019)_ <br>
 DigitalTransformation solution provider in IoT, SMAC, IBM,  SoftwareAG, MuleSoft, SAP.
   - Building a Helpdesk module for a React Native App 
