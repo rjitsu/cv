@@ -52,6 +52,9 @@ _Weather app made with React,Bootstrap and OpenWeatherMap API._
 
 **8 Picked pens** @ [Codepen](https://codepen.io/Rj456) _(June 2020 - Present)_<br>
 Made CSS and p5js related demos on Codepen.
+
+**20k post views on DEV** @ [DEV](https://dev.to/rjitsu) _(October 2021)_<br>
+After 7 posts on DEV, achieved 20K post views on the famous blogging platform. 
 <br><br>
 
 ## 🎓 Education
